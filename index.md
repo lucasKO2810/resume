@@ -1,6 +1,6 @@
 # Lucas Kneffel Otal  
 
-**Address:** Leonhardstraße 15, 38102 Braunschweig, Germany  
+**Address:** Braunschweig, Germany  
 **Phone:** -  
 **Email:** lucas.kneffel@gmail.com  
 **LinkedIn:** [linkedin.com/in/lucas-kneffel](https://www.linkedin.com/in/lucas-kneffel)  
@@ -15,11 +15,11 @@ Innovative and results-driven professional with exceptional mathematical skills 
 
 ## Skills  
 
-- **Programming Languages & Tools:** Python, C++, MATLAB, Docker, Terraform, FastAPI, Flask  
-- **Cloud Platforms:** GCP, Azure  
+- **Programming Languages & Tools:** Python, C++, Docker, Terraform, FastAPI, Flask  
+- **Cloud Platforms:** Google Cloud, Azure  
 - **Databases:** PostgreSQL, Neo4j, MongoDB, Redis, CosmosDB  
 - **AI & Machine Learning:** PyTorch, LangChain, Hugging Face Transformers, MLflow, Autogen  
-- **Infrastructure & DevOps:** Linux, Kubernetes, Grafana, Apache Kafka  
+- **Infrastructure & DevOps:** Linux, Kubernetes, Grafana, Apache Kafka, Celery  
 - **Other Skills:** Domain-Driven Design, multilingual (German, Spanish, English)
 
 ---
@@ -48,7 +48,9 @@ Innovative and results-driven professional with exceptional mathematical skills 
 - Directed innovation strategy, identifying cutting-edge AI and automation opportunities.  
 - Developed AI solutions using tools such as PyTorch, Hugging Face Transformers, and Docker.  
 - Led DevOps efforts on Google Cloud, ensuring reliable, secure infrastructure and processes.  
-- Designed secure VPCs and configured networking and role-based access controls on GCP.  
+- Designed secure VPCs and configured networking and role-based access controls on GCP.
+
+- Led and prepared workshops for different projects of customers to shape the product and technical vision
 
 ---
 
@@ -94,7 +96,7 @@ Innovative and results-driven professional with exceptional mathematical skills 
 ## Languages  
 
 - German: Native  
-- Spanish: Fluent  
+- Spanish: Native  
 - English: Fluent  
 
 ---
@@ -103,7 +105,4 @@ Innovative and results-driven professional with exceptional mathematical skills 
 
 Lived in Barcelona, Spain, and Puebla, Mexico, for six years before attending secondary school. Gained international experience and cultural adaptability.  
 
----
-
-This markdown file can be used for GitHub Pages by saving it as `index.md` in the root of your repository. If you'd like additional formatting or sections, let me know!
 
