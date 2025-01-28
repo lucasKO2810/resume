@@ -1,2 +1,2 @@
-# resume
-Personal Resume
+# Resume
+Personal repository for the resume of Lucas Kneffel
