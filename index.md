@@ -35,14 +35,14 @@ Innovative and results-driven professional with exceptional mathematical skills 
 - **Digital Twins:** Created graph-based digital twins with Neo4j to represent complex IT structures.  
 - **Cyber Attack Simulation:** Implemented realistic scenarios with Transformer Decoders and LoRa finetuning.  
 - **Platform Development:** Designed a scalable, event-driven microservice architecture with domain-driven design principles.  
-- **DevOps & MLOps:** Built CI/CD pipelines for feature and model integration (MLflow, GitHub Actions).  
+- **DevOps & MLOps:** Built CI/CD pipelines for feature and model integration (MLflow, GitHub Actions, Cloud Build, Ansible).  
 - **GPU Cluster Management:** Developed and managed an on-premise L40 GPU cluster for large-scale LLM inference.  
 - **Hybrid Deployment:** Deployed infrastructure across GCP, Azure, and on-prem clusters using Terraform.  
 
 ---
 
 ### Co-Founder & ML-Engineer, Deep5 GmbH  
-**August 2021 – Present**  
+**August 2021 – Oktober 2025**  
 **[www.deep5.io](https://www.deep5.io)**  
 
 - Directed innovation strategy, identifying cutting-edge AI and automation opportunities.  
